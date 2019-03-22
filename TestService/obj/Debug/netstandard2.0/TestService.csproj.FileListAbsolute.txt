@@ -1,0 +1,9 @@
+/Users/jananiv/project/unit-test-demo/TestService/bin/Debug/netstandard2.0/TestService.deps.json
+/Users/jananiv/project/unit-test-demo/TestService/bin/Debug/netstandard2.0/TestService.dll
+/Users/jananiv/project/unit-test-demo/TestService/bin/Debug/netstandard2.0/TestService.pdb
+/Users/jananiv/project/unit-test-demo/TestService/obj/Debug/netstandard2.0/TestService.csprojAssemblyReference.cache
+/Users/jananiv/project/unit-test-demo/TestService/obj/Debug/netstandard2.0/TestService.csproj.CoreCompileInputs.cache
+/Users/jananiv/project/unit-test-demo/TestService/obj/Debug/netstandard2.0/TestService.AssemblyInfoInputs.cache
+/Users/jananiv/project/unit-test-demo/TestService/obj/Debug/netstandard2.0/TestService.AssemblyInfo.cs
+/Users/jananiv/project/unit-test-demo/TestService/obj/Debug/netstandard2.0/TestService.dll
+/Users/jananiv/project/unit-test-demo/TestService/obj/Debug/netstandard2.0/TestService.pdb

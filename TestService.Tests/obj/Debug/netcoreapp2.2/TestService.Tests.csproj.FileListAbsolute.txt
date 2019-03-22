@@ -1,0 +1,17 @@
+/Users/jananiv/project/unit-test-demo/TestService.Tests/obj/Debug/netcoreapp2.2/TestService.Tests.csprojAssemblyReference.cache
+/Users/jananiv/project/unit-test-demo/TestService.Tests/obj/Debug/netcoreapp2.2/TestService.Tests.csproj.CoreCompileInputs.cache
+/Users/jananiv/project/unit-test-demo/TestService.Tests/obj/Debug/netcoreapp2.2/TestService.Tests.AssemblyInfoInputs.cache
+/Users/jananiv/project/unit-test-demo/TestService.Tests/obj/Debug/netcoreapp2.2/TestService.Tests.AssemblyInfo.cs
+/Users/jananiv/project/unit-test-demo/TestService.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/jananiv/project/unit-test-demo/TestService.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/jananiv/project/unit-test-demo/TestService.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/jananiv/project/unit-test-demo/TestService.Tests/bin/Debug/netcoreapp2.2/TestService.Tests.deps.json
+/Users/jananiv/project/unit-test-demo/TestService.Tests/bin/Debug/netcoreapp2.2/TestService.Tests.runtimeconfig.json
+/Users/jananiv/project/unit-test-demo/TestService.Tests/bin/Debug/netcoreapp2.2/TestService.Tests.runtimeconfig.dev.json
+/Users/jananiv/project/unit-test-demo/TestService.Tests/bin/Debug/netcoreapp2.2/TestService.Tests.dll
+/Users/jananiv/project/unit-test-demo/TestService.Tests/bin/Debug/netcoreapp2.2/TestService.Tests.pdb
+/Users/jananiv/project/unit-test-demo/TestService.Tests/bin/Debug/netcoreapp2.2/TestService.dll
+/Users/jananiv/project/unit-test-demo/TestService.Tests/bin/Debug/netcoreapp2.2/TestService.pdb
+/Users/jananiv/project/unit-test-demo/TestService.Tests/obj/Debug/netcoreapp2.2/TestService.Tests.csproj.CopyComplete
+/Users/jananiv/project/unit-test-demo/TestService.Tests/obj/Debug/netcoreapp2.2/TestService.Tests.dll
+/Users/jananiv/project/unit-test-demo/TestService.Tests/obj/Debug/netcoreapp2.2/TestService.Tests.pdb
